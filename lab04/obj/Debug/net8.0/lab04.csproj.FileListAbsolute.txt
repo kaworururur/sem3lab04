@@ -1,0 +1,14 @@
+C:\Users\24\source\repos\lab04\lab04\bin\Debug\net8.0\lab04.exe
+C:\Users\24\source\repos\lab04\lab04\bin\Debug\net8.0\lab04.deps.json
+C:\Users\24\source\repos\lab04\lab04\bin\Debug\net8.0\lab04.runtimeconfig.json
+C:\Users\24\source\repos\lab04\lab04\bin\Debug\net8.0\lab04.dll
+C:\Users\24\source\repos\lab04\lab04\bin\Debug\net8.0\lab04.pdb
+C:\Users\24\source\repos\lab04\lab04\obj\Debug\net8.0\lab04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24\source\repos\lab04\lab04\obj\Debug\net8.0\lab04.AssemblyInfoInputs.cache
+C:\Users\24\source\repos\lab04\lab04\obj\Debug\net8.0\lab04.AssemblyInfo.cs
+C:\Users\24\source\repos\lab04\lab04\obj\Debug\net8.0\lab04.csproj.CoreCompileInputs.cache
+C:\Users\24\source\repos\lab04\lab04\obj\Debug\net8.0\lab04.dll
+C:\Users\24\source\repos\lab04\lab04\obj\Debug\net8.0\refint\lab04.dll
+C:\Users\24\source\repos\lab04\lab04\obj\Debug\net8.0\lab04.pdb
+C:\Users\24\source\repos\lab04\lab04\obj\Debug\net8.0\lab04.genruntimeconfig.cache
+C:\Users\24\source\repos\lab04\lab04\obj\Debug\net8.0\ref\lab04.dll
